@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on Android and Flutter app development
 - 💬 Ask me about Flutter or Android
 - 📫 How to reach me: dhamshaniya.hitesh@gmail.com or [Twitter](https://twitter.com/hiteshpatel1142)
+
+![HiteshDhamshaniya's state](https://github-readme-stats.vercel.app/api?username=hitesh-dhamshaniya&count_private=true)
+
 <!--
 **hitesh-dhamshaniya/hitesh-dhamshaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
